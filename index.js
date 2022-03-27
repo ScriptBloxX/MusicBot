@@ -16,7 +16,7 @@ var stopByUser = false;
 // online status
 client.on('ready', () => {
     console.log(`logged in as ${client.user.tag}!`);
-    client.user.setActivity(`${config.prefix}}Music`, {
+    client.user.setActivity(`${config.prefix}Music`, {
         type: "STREAMING",
         url: "http://www.atimedesign.com/webdesign/wp-content/uploads/2019/09/apple-music-note-800x420.jpg"
     });
