@@ -8,6 +8,6 @@
     ffmpeg-static
     youtube-node@1.3.3
     yt-mix-playlist@0.1.2-b.2
-    ytdl-core@4.11.0
+    ytdl-core@latest
 
 Don't forget to edit the config.json !
